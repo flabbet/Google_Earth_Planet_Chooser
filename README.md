@@ -1,5 +1,5 @@
 # Google_Earth_Planet_Chooser
-Open between 3 Google Earth Planets with this tool 
+Open between 3 Google Earth Planets with this tool. Project made for Google Code-in 2018
 
 # Open
 
